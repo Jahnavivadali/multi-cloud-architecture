@@ -22,3 +22,6 @@ The project focused on **interoperability, scalability, and fault tolerance** â€
 
 Though executed within AWS, this setup reflects the same design principles used in true multi-cloud environments and provided valuable experience in managing distributed cloud systems.
 
+OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/aa62d198-411d-49ba-94b5-a4c1b8e5ae92)
